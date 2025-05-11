@@ -39,10 +39,7 @@ export default function Home() {
           </div>
         )}
       </div>
-      {/* Centered Message */}
-      <h1 className="text-3xl sm:text-5xl font-bold text-center text-black select-none">
-        YEEY STORE COMING SOON
-      </h1>
+    
     </div>
   );
 }

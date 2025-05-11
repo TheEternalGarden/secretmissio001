@@ -29,7 +29,7 @@ export default function Home() {
                 isOpen ? "-rotate-45 -translate-y-2" : ""
               }`}
             />
-          </div>
+        </div>
         </button>
         {isOpen && (
           <div className="absolute right-0 mt-2 w-48 bg-white rounded-lg shadow-lg py-2">
